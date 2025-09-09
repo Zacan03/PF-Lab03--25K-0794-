@@ -15,4 +15,6 @@ Currently learning C language bit by bit.
 3. CS
 
 # Special Note
-*a* **w**
+*I like to play video games*
+**Specially since the time of covid**
+***My Favourite one would be Minecraft***
