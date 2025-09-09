@@ -1,3 +1,1 @@
-Name: Muhammad Zain Salar
-Degree Program: Bachelors in Comuper Science
-Hobby: Playing chess
+My name is Muhammad Zain Salar. I am pursuing Bachelors in Comuper Science Degree. One of my hobbies is to play chess
