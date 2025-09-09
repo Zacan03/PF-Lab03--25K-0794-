@@ -5,9 +5,9 @@ Beginner in programming,interested in AI and Data Sciences.
 Currently learning C language bit by bit.  
 
 # My Hobbies 
--Playing Video Games
--Playing Chess
--Reading Comics
+- Playing Video Games
+- Playing Chess
+- Reading Comics
 
 # My Favourite Subjects
 1. Maths
